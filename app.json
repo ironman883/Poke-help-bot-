@@ -1,6 +1,6 @@
 {
-      "name": "Marvel help bot ",
-      "description": "A sci-fi themed Telegram group management bot.",
+      "name": "Poke help bot ",
+      "description": "A pokemon themed bot telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
@@ -8,7 +8,7 @@
          "manager",
          "Marvel"
       ],   
-   "repository": "https://github.com/AnimeKaizoku/SaitamaRobot",
+   "repository": "https://github.com/ironman883/Poke-help-bot-",
    "addons": [
       {
          "options": {
@@ -50,7 +50,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "Marvelbotsupport"
+         "value": "Pokebotsupport"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
