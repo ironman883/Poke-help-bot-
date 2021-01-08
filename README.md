@@ -32,7 +32,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 ```
 
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/luluop/MARVEL-HELP-BOT.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ironman883/Poke-help-bot-.git)
 
 
 
@@ -175,9 +175,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/luluop
-/
-MARVEL-HELP-BOT.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ironman883/Poke-help-bot-.git) 
 
 
 ## Credits
