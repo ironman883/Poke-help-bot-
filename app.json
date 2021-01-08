@@ -1,12 +1,12 @@
 {
-      "name": "SaitamaRobot",
-      "description": "An Anime themed Telegram group management bot.",
+      "name": "Marvel help bot ",
+      "description": "A sci-fi themed Telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Saitama"
+         "Marvel"
       ],   
    "repository": "https://github.com/AnimeKaizoku/SaitamaRobot",
    "addons": [
@@ -45,12 +45,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Sawada"
+         "value": "Swami_2_0_0_5"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "MyAwesomeSupportGroupGoesHere"
+         "value": "Marvelbotsupport"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
